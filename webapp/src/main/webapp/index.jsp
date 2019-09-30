@@ -2,7 +2,7 @@
 <h2> Welcome to Digital HUBs </h2>
 <h3> One last test </h3>
 
-<Trrail 1 passed>
+<h3> Trrail 1 passed</h3>
   
-<Trail 2 passed>
-<Trail 3 in progess>
+<h3> Trail 2 passed</h3>
+<h3> Trail 3 in progess</h3>
