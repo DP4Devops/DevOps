@@ -6,4 +6,4 @@
   
 <h3> Trail 2 passed</h3>
 <h3> Trail 3 passed</h3>
-<h3> Trail 4 inprogress</h3>
+<h3> Trail 4 passed</h3>
