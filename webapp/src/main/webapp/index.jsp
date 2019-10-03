@@ -1,6 +1,6 @@
 <h1> Hello, Welcome to DevOps Demo !!! </h1>
 <h2> Welcome to Digital HUBs </h2>
-<h3> One last test </h3>
+<h3> 3-Oct-2019 </h3>
 
 <h3> Trrail 1 passed</h3>
   
